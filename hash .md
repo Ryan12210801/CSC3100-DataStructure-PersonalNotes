@@ -377,15 +377,14 @@ deleted[idx] = true;
 > 从 `H` 中**均匀随机选择一个**哈希函数 `h`，有：
 > 
 > $$
-> \Pr[h(x) = h(y)] \le \frac{1}{m}
+> \Pr {[h(x) = h(y)]} \le \frac{1}{m}
 > $$
 > 
 
 ## 经典构造
 
 $$
-
- h_{a,b}(x) = ((a \cdot x + b) \bmod p) \bmod m
+h_{a,b}(x) = ((a \cdot x + b) \bmod p) \bmod m
 $$
 
 ### 参数选择
