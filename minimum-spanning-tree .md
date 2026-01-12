@@ -38,7 +38,7 @@
 
 ---
 
-![image.png](MST%EF%BC%88%20Minimum%20Spanning%20Tree%EF%BC%89/image.png)
+![image.png](assests/MST.png)
 
 ### 2. Light Edge（轻边）
 
