@@ -92,11 +92,11 @@
 
 - 有向邻接表
 
-![image.png](Graphs,%20BFS,%20DFS/image.png)
+![image.png](assests/GBD.png)
 
 - 无向邻接表
 
-![image.png](Graphs,%20BFS,%20DFS/image%201.png)
+![image.png](assests/GBD-1.png)
 
 java代码
 
@@ -152,11 +152,11 @@ n为所有node的数量，m为所有edge的数量。k假设为指定vertex的另
 
 - 有向邻接矩阵
 
-![image.png](Graphs,%20BFS,%20DFS/image%202.png)
+![image.png](assests/GBD-2.png)
 
 - 无向邻接矩阵
 
-![image.png](Graphs,%20BFS,%20DFS/image%203.png)
+![image.png](assests/GBD-3.png)
 
 java代码
 
@@ -184,7 +184,7 @@ n为所有node的数量，m为所有edge的数量。k假设为指定vertex的另
 
 ### 思想：从源点 s 出发，按“层”扩散：先访问距离更近的点
 
-![image.png](Graphs,%20BFS,%20DFS/0150df9d-72f6-4543-a5bc-7bf60563970c.png)
+![image.png](assests/GBD0.png)
 
 ### 数据结构：Queue
 
