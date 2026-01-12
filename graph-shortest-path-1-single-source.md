@@ -31,9 +31,9 @@ $$
 \delta(s,v)\le \delta(s,u)+w(u,v)
 $$
 
-![image.png](Graph%20Shortest%20Path%20(1)%20(Single-Source)/image.png)
+![image.png](assests/GSP.png)
 
-![image.png](Graph%20Shortest%20Path%20(1)%20(Single-Source)/image%201.png)
+![image.png](assests/GSP-1.png)
 
 ## 二、理论基础：Relaxation Property
 
@@ -190,11 +190,11 @@ static long[] dijkstra(List<Edge>[] g, int s) {
 
 伪代码逻辑
 
-![image.png](Graph%20Shortest%20Path%20(1)%20(Single-Source)/image%202.png)
+![image.png](assests/GSP-2.png)
 
-![image.png](Graph%20Shortest%20Path%20(1)%20(Single-Source)/image%203.png)
+![image.png](assests/GSP-3.png)
 
-![image.png](Graph%20Shortest%20Path%20(1)%20(Single-Source)/image%204.png)
+![image.png](assests/GSP-4.png)
 
 ### 6.时间复杂度
 
