@@ -3,8 +3,7 @@
 
 当前内容主要覆盖期中考试之后的课程部分，其余章节将于后续时间逐步补充完善。
 
-本笔记仅作为个人学习与复习的总结记录，若能配合 CSC3100 官方课件一同阅读，将有助于更系统地理解课程中的数据结构与相关算法思想
-
+本笔记仅作为个人学习与复习的总结记录，若能配合 CSC3100 官方课件一同阅读，将有助于更系统地理解课程中的数据结构与相关算法思想。 <br><br> 
 
 This repository contains personal study notes for CSC3100 (Data Structures) at The Chinese University of Hong Kong, Shenzhen.
 
