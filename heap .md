@@ -78,7 +78,7 @@ private int right(int i) {
 > ⇒ 沿着父链向上修复堆序
 > 
 
-![image.png](Heap/image.png)
+![image.png](assests/Heap.png)
 
 ```java
 	void insert(int key) {
