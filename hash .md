@@ -362,9 +362,9 @@ deleted[idx] = true;
 - `m`：hash table 的大小（bucket 数）
 - `H`：一组哈希函数h:U→{0,1,…,m−1}
     
-    $$
-    h:U \rightarrow \{0, 1, \dots, m-1\}
-    $$
+$$
+h:U \rightarrow \{0, 1, \dots, m-1\}
+$$
     
 
 ### **Universal Hash Family 的定义**
